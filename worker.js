@@ -1,5 +1,7 @@
 /* 
-Copyright 2023, ServerlessConnect.com
+Copyright 2023, Serverless Connect
+All applicable matarial structure are Intellectual property of Serverless Connect.
+https://www.serverlessconnect.com/
 */
 
 var _0x364193 = _0x31e9, _0x73e274 = _0x31e9, _0x3816dd = _0x31e9, _0x3b8ad2 = _0x31e9, _0x56e2db = _0x31e9;
