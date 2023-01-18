@@ -1,3 +1,11 @@
+/* 
+Copyright 2023, Serverless Connect
+All applicable matarial structure are Intellectual property of Serverless Connect.
+https://www.serverlessconnect.com/
+Updated - 18/Jan/2023  
+Latest Version - 1.23.3
+*/
+
 (function (_0x1a49a2, _0x56ceae) {
     var _0x467d7f = _0x1a49a2();
     while (!![]) {
@@ -903,3 +911,5 @@ async function dect(_0x32f4bb, _0x38c7c0) {
         return '';
     }
 }
+
+/* Do not allow to modify or edit for security reason */
