@@ -912,4 +912,4 @@ async function dect(_0x32f4bb, _0x38c7c0) {
     }
 }
 
-/* Do not allow to modify or edit for security reason */
+/* Do not allow to modify or edit for security reason  */
