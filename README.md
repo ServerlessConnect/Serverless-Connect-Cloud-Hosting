@@ -15,5 +15,6 @@ Please follow the below instruction -
 5. You need to bind the recently created kv by the exact name of "cloudHosting".
 6. After binding please go to worker's public web url and go to the /admin route manually
 Example - https://workerr-xo918u.xtech.workers.dev/admin
-7. You will find the key requesting page and then go to https://www.serverlessconnect.com and get a 1 month trial key.
+7. You will find the key requesting page and then go to https://www.serverlessconnect.com and get access key.
 8. paste the key and start your Cloud Hosting
+9. Enjoy scalable and No monthly cost hosting by cloud computing technology.
